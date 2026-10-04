@@ -18,6 +18,7 @@ before it writes a result, a mutant that no test kills.
 
 ### What I am building
 
+- **[gedik](https://github.com/onur-kesim/gedik)** — a read-only security-audit skill for Claude Code. Every finding ships a working PoC; what it cannot measure it reports as *not measured*, not *clean*.
 - **[hafiza-kur](https://github.com/onur-kesim/hafiza-kur)** — a portable project-memory gate system for AI agents. Ships with its own mutants, so the gates can be shown to bite.
 - **[Momentum](https://github.com/onur-kesim/Momentum)** — offline-first task management, ASP.NET Core and Flutter, with sync and conflict resolution.
 - **[epson-l3251-usb-reset](https://github.com/onur-kesim/epson-l3251-usb-reset)** — reading, backing up and resetting a printer's waste-ink counter over IEEE 1284.
